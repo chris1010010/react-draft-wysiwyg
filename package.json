@@ -5,7 +5,7 @@
   "main": "dist/react-draft-wysiwyg.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpuri/react-draft-wysiwyg.git"
+    "url": "https://github.com/chris1010010/react-draft-wysiwyg.git"
   },
   "author": "Jyoti Puri",
   "devDependencies": {
@@ -55,8 +55,8 @@
     "precss": "^4.0.0",
     "react": "^18.2.0",
     "react-addons-test-utils": "^15.6.2",
-    "react-dom": "^18.2.0",
-    "react-test-renderer": "^18.2.0",
+    "react-dom": "^18.3.0",
+    "react-test-renderer": "^18.3.0",
     "rimraf": "^5.0.1",
     "sinon": "^15.1.0",
     "storybook": "^7.0.20",
@@ -78,8 +78,8 @@
   "peerDependencies": {
     "draft-js": "^0.10.x || ^0.11.x",
     "immutable": "3.x.x || 4.x.x",
-    "react": "0.13.x || 0.14.x || ^15.0.0-0 || 15.x.x || ^16.0.0-0 || ^16.x.x || ^17.x.x || ^18.x.x",
-    "react-dom": "0.13.x || 0.14.x || ^15.0.0-0 || 15.x.x || ^16.0.0-0 || ^16.x.x || ^17.x.x || ^18.x.x"
+    "react": "0.13.x || 0.14.x || ^15.0.0-0 || 15.x.x || ^16.0.0-0 || ^16.x.x || ^17.x.x || ^18.x.x || ^19.x.x",
+    "react-dom": "0.13.x || 0.14.x || ^15.0.0-0 || 15.x.x || ^16.0.0-0 || ^16.x.x || ^17.x.x || ^18.x.x || ^19.x.x"
   },
   "scripts": {
     "clean": "rimraf dist",
